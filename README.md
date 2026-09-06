@@ -1,20 +1,20 @@
-# IKK — Ide Kreatif dan Kewirausahaan
+# Ide Kreatif dan Kewirausahaan
 
-Mata kuliah semester gasal 2026/2027, Sekolah Vokasi UGM.
+## Informasi Mata Kuliah
 
-- **Jadwal:** Rabu, 09:15–10:55
-- **Ruang:** CU 208
+- **Perguruan Tinggi:** Universitas Gadjah Mada
+- **Program Studi:** Sarjana Terapan Teknologi Rekayasa Perangkat Lunak
+- **Semester:** Gasal 2026/2027
+- **Mata Kuliah:** Ide Kreatif dan Kewirausahaan
+- **Kode Mata Kuliah:** -
+- **Bobot:** 2 SKS
 
-## Catatan Sistem Folder
+## Deskripsi
 
-Folder ini **tidak** memakai sistem per-folder per-pertemuan (beda dengan PPD/PPG/KEPL).
-Semua file dikumpulkan langsung di folder ini, dinamai deskriptif sesuai isi/tugasnya.
+Repositori ini digunakan untuk menyimpan dokumentasi dan hasil kegiatan perkuliahan mata kuliah **Ide Kreatif dan Kewirausahaan**.
 
-Struktur yang berlaku:
+## Mahasiswa
 
-```
-IKK/
-├── README.md          <- file ini
-├── <file tugas/materi>  langsung di sini
-└── ...
-```
+- **Nama:** Hafidz Rizqullah Prasetya
+- **NIM:** 24/535493/SV/24243
+- **Kelas:** PL5A1
