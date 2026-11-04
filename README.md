@@ -8,6 +8,8 @@ Repositori ini digunakan untuk mendokumentasikan seluruh materi perkuliahan, mod
 
 * 📄 **Google Docs Kelompok 12 (Live Working Document):**  
   👉 **[Buka Dokumen Google Docs Kelompok](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)**
+* 🛠️ **Repositori Produk Dekat.in (PRD, prototipe UI, desain MVP):**  
+  👉 **[github.com/hafidzrizqullahprasetya/dekatin](https://github.com/hafidzrizqullahprasetya/dekatin)**
 * 📝 **Formulir Pengumpulan Tugas Dosen:**  
   👉 **[Google Forms IKK UGM](https://forms.gle/3TEZzTMM16kD5ua57)**
 
@@ -51,6 +53,7 @@ Repositori ini digunakan untuk mendokumentasikan seluruh materi perkuliahan, mod
 ```text
 IKK/
 ├── README.md                                             # Hub utama repositori dan navigasi dokumen
+├── dekatin -> ~/Project/dekatin                          # Symlink lokal ke repo produk Dekat.in
 ├── materi/                                               # Modul perkuliahan (Slide PDF & Rangkuman MD)
 │   ├── 02-creative-thinking-problem-identification.pdf   # Modul 02 (Slide Resmi UGM)
 │   ├── 02-creative-thinking-problem-identification.md    # Modul 02 (Dokumentasi Lengkap Markdown)
