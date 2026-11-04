@@ -1,7 +1,7 @@
 # Tugas IKK — Riset Pasar & Customer Discovery (Wawancara & Validasi Lapangan)
 
 - **Mata Kuliah:** Ide Kreatif dan Kewirausahaan (IKK)
-- **Kelompok:** 12
+- **Kelompok:** Dekat.in
 - **Anggota:**
   1. Hafidz Rizqullah Prasetya (24/535493/SV/24243)
   2. Pralambang Bhayangkara Yhudanto (24/536223/SV/24414)
