@@ -1,3 +1,9 @@
+- **Mata Kuliah:** Ide Kreatif dan Kewirausahaan (IKK)
+- **Kelompok:** 12
+- **Tautan Kerja Live:** [Google Docs Kelompok 12](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)
+
+---
+
 # Riset Threads — Masalah Indonesia yang Dibahas (by data)
 
 Sumber: sweep via `ckelepel-threads` CLI, 6 Sep 2026. Raw JSON: `/tmp/threads-sweep/`, `/tmp/threads-sweep2/`.

@@ -1,8 +1,14 @@
 # Tugas IKK — Creative Thinking & Problem Identification
 
-Kelompok: [isi nama kelompok]
-Anggota: [isi nama + NIM]
-Minggu 2 — Creative Thinking & Problem Identification
+- **Mata Kuliah:** Ide Kreatif dan Kewirausahaan (IKK)
+- **Kelompok:** 12
+- **Anggota:**
+  1. Hafidz Rizqullah Prasetya (24/535493/SV/24243)
+  2. Pralambang Bhayangkara Yhudanto (24/536223/SV/24414)
+  3. Alfiz Desta Ariant Permana (24/543220/SV/25173)
+  4. Danny Setiawan (24/541304/SV/24894)
+- **Tautan Kerja Live:** [Google Docs Kelompok 12](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)
+- **Minggu/Tahap:** Minggu 2 — Creative Thinking & Problem Identification
 
 ---
 
