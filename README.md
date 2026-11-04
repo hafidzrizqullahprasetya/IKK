@@ -6,7 +6,7 @@ Repositori ini digunakan untuk mendokumentasikan seluruh materi perkuliahan, mod
 
 ## 📌 Tautan Penting & Dokumen Kolaborasi
 
-* 📄 **Google Docs Kelompok 12 (Live Working Document):**  
+* 📄 **Google Docs Kelompok Dekat.in (Live Working Document):**  
   👉 **[Buka Dokumen Google Docs Kelompok](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)**
 * 🛠️ **Repositori Produk Dekat.in (PRD, prototipe UI, desain MVP):**  
   👉 **[github.com/hafidzrizqullahprasetya/dekatin](https://github.com/hafidzrizqullahprasetya/dekatin)**
@@ -24,7 +24,7 @@ Repositori ini digunakan untuk mendokumentasikan seluruh materi perkuliahan, mod
 * **Program Studi:** Sarjana Terapan Teknologi Rekayasa Perangkat Lunak (TRPL)
 * **Institusi:** Universitas Gadjah Mada (UGM)
 
-### Anggota Kelompok 12
+### Anggota Kelompok Dekat.in
 1. **Hafidz Rizqullah Prasetya** (24/535493/SV/24243)
 2. **Pralambang Bhayangkara Yhudanto** (24/536223/SV/24414)
 3. **Alfiz Desta Ariant Permana** (24/543220/SV/25173)

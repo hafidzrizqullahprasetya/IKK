@@ -91,4 +91,4 @@
 
 ## 6. Kesimpulan
 
-Validasi lapangan dan pemetaan VPC/BMC memperjelas arah startup Kelompok 12: bukan membangun *marketplace* raksasa penyaing Shopee/GoFood, melainkan instrumen penemuan lokal (*discovery tool*) yang memberdayakan ekonomi tetangga secara efisien dan berkelanjutan.
+Validasi lapangan dan pemetaan VPC/BMC memperjelas arah startup Kelompok Dekat.in: bukan membangun *marketplace* raksasa penyaing Shopee/GoFood, melainkan instrumen penemuan lokal (*discovery tool*) yang memberdayakan ekonomi tetangga secara efisien dan berkelanjutan.

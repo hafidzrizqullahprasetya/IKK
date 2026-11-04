@@ -7,7 +7,7 @@
   2. Pralambang Bhayangkara Yhudanto (24/536223/SV/24414)
   3. Alfiz Desta Ariant Permana (24/543220/SV/25173)
   4. Danny Setiawan (24/541304/SV/24894)
-- **Tautan Kerja Live:** [Google Docs Kelompok 12](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)
+- **Tautan Kerja Live:** [Google Docs Kelompok Dekat.in](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)
 - **Formulir Pengumpulan:** [Google Forms IKK UGM](https://forms.gle/3TEZzTMM16kD5ua57)
 - **Minggu/Tahap:** Minggu 3 — Riset Pasar, Customer Discovery, & Validasi Lapangan
 
@@ -116,6 +116,6 @@ Gagasan awal *"Katalog UMKM Lokal per Daerah"* disempurnakan menjadi:
 
 ## 10. Kesimpulan
 
-Proses *Customer Discovery* melalui wawancara 10 calon pengguna dan observasi lapangan secara fundamental mengubah arah strategi kelompok 12:
+Proses *Customer Discovery* melalui wawancara 10 calon pengguna dan observasi lapangan secara fundamental mengubah arah strategi Kelompok Dekat.in:
 1. Masalah utama seller rumahan bukanlah ketidakmampuan menggunakan teknologi (*gaptek*), melainkan **ketiadaan saluran penemuan berbasis jarak dekat (hyperlocal)** dan **beban komisi/ongkir**.
 2. Penyempurnaan konsep dari marketplace konvensional menjadi **Platform Etalase Hyperlocal Direct-to-WhatsApp** memberikan proposisi nilai yang jauh lebih realistis, mudah diadopsi, dan langsung menjawab keluhan riil masyarakat.

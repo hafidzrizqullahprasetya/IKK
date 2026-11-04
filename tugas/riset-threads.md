@@ -1,6 +1,6 @@
 - **Mata Kuliah:** Ide Kreatif dan Kewirausahaan (IKK)
 - **Kelompok:** 12
-- **Tautan Kerja Live:** [Google Docs Kelompok 12](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)
+- **Tautan Kerja Live:** [Google Docs Kelompok Dekat.in](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)
 
 ---
 

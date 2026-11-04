@@ -7,7 +7,7 @@
   2. Pralambang Bhayangkara Yhudanto (24/536223/SV/24414)
   3. Alfiz Desta Ariant Permana (24/543220/SV/25173)
   4. Danny Setiawan (24/541304/SV/24894)
-- **Tautan Kerja Live:** [Google Docs Kelompok 12](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)
+- **Tautan Kerja Live:** [Google Docs Kelompok Dekat.in](https://docs.google.com/document/d/14LWd_ehOCGU3XGErlBbaGf-zYLgNBPdrEghfveJYrKQ/edit?usp=sharing)
 - **Minggu/Tahap:** Minggu 2 — Creative Thinking & Problem Identification
 
 ---
