@@ -53,7 +53,6 @@ Repositori ini digunakan untuk mendokumentasikan seluruh materi perkuliahan, mod
 ```text
 IKK/
 ├── README.md                                             # Hub utama repositori dan navigasi dokumen
-├── dekatin -> ~/Project/dekatin                          # Symlink lokal ke repo produk Dekat.in
 ├── materi/                                               # Modul perkuliahan (Slide PDF & Rangkuman MD)
 │   ├── 02-creative-thinking-problem-identification.pdf   # Modul 02 (Slide Resmi UGM)
 │   ├── 02-creative-thinking-problem-identification.md    # Modul 02 (Dokumentasi Lengkap Markdown)
